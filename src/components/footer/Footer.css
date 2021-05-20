@@ -1,0 +1,37 @@
+.footer {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items:  center;
+    background-color: tomato;
+    padding: 5% 10%;
+    gap: 30px;
+   
+}
+
+.footer_left {
+    padding: 20px;
+}
+
+.text_left {
+    padding: 10px 10px;
+}
+
+.footer_right_sitemap {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 20px;
+}
+
+.text_right {
+    padding: 20px;
+}
+
+.form_grup{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
